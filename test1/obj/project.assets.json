@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test1\\readme.mb\\readme.mb.csproj",
+      "projectUniqueName": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test\\test1\\readme.mb.csproj",
       "projectName": "readme.mb",
-      "projectPath": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test1\\readme.mb\\readme.mb.csproj",
+      "projectPath": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test\\test1\\readme.mb.csproj",
       "packagesPath": "C:\\Users\\eogyr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test1\\readme.mb\\obj\\",
+      "outputPath": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test\\test1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

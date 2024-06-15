@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test1\\readme.mb\\",
+  "WorkspaceRootPath": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test\\test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D2ECA1E-051C-4B64-815A-05378BD7654C}|readme.mb.csproj|c:\\users\\eogyr\\onedrive\\desktop\\test1\\readme.mb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D2ECA1E-051C-4B64-815A-05378BD7654C}|readme.mb.csproj|c:\\users\\eogyr\\onedrive\\desktop\\test\\test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D2ECA1E-051C-4B64-815A-05378BD7654C}|readme.mb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test1\\readme.mb\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test\\test1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test1\\readme.mb\\Program.cs",
+              "ToolTip": "C:\\Users\\eogyr\\OneDrive\\Desktop\\test\\test1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
